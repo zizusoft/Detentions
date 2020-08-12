@@ -1,1 +1,4 @@
-# Detentions
+# Detentions App
+
+- Documentation
+- Server Software Download
