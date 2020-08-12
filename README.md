@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/zizusoft/Assets/master/2020/08/11-18-00-26-title.png" title="" alt="" width="332">
-[https://detentions.app](https://detentions.app)
+#https://detentions.app
 
 - [Documentation](https://github.com/zizusoft/Detentions/wiki)
 - [Server Software Download](https://github.com/zizusoft/Detentions/releases)
